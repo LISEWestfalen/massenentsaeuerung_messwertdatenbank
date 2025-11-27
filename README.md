@@ -8,7 +8,6 @@ Ziel ist es, die Nachvollziehbarkeit, Qualität und Vergleichbarkeit von Entsäu
 
 # Struktur
 - _docs/
-  - Pflegeanleitung.md
   - README.md
   - Vorlage.xml
 - blockentsaeuerung/
