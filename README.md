@@ -1,10 +1,15 @@
-# Dokumentation der Entsäuerungsvorgänge
-Dieses Repository enthält die standardisierte Dokumentation der Entsäuerungsprozesse
-Ziel ist es, die Nachvollziehbarkeit, Qualität und Vergleichbarkeit von Entsäuerungsvorgängen sicherzustellen.
+# Grundlage des Repositorys
+Dieses Repository ist eine Datensammlung von pH-Werten vor und nach einer Mengenentsäuerung.
 
-## Inhalte
-- Massenentsäuerungsdaten für die Einzelblatt- und Blockentsäuerung
-- Vorlagen für die standardisierte Dokumentation
+Grundlage sind die Messdaten die bisher im Rahmen der Landesinitiative Substanzerhalt (LISE)/Westfalen gesammelt wurden und weiterhin erfasst werden.
+
+Hierbei handelt es sich um ein 2006 vom Land Nordrhein-Westfalen ins Leben gerufene Projekt zur Förderung der Massenentsäuerung von nichtstaatlichem Archivgut. Aufgrund der Struktur des Landes Nordrhein-Westfalens wird das Projekt über zwei Zentren gesteuert. Für den Landesteil Rheinland erfolgt die Umsetzung des Projektes durch Mitarbeitende der LISE/Rheinland am LVR-Archivberatungs- und Fortbildungszentrum. Dieselben Aufgaben werden im westfälischen Landesteil durch Mitarbeitenden der LISE/Westfalen angegliedert ans LWL-Archivamt für Westfalen umgesetzt und durch diese werden die Daten zur Verfügung gestellt
+
+## Ziel
+Ziel dieses Repository ist es, auf Grundlage dieser Messdaten eine auch von anderen Institutionen/Projekten erweiterbare Sammlung an vergleichbaren Messdaten zur Mengenentsäuerung der wissenschaftlichen Forschung zugänglich zu machen. 
+
+### Inhalte
+- 
 
 # Struktur
 - _docs/
