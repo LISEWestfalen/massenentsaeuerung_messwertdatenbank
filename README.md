@@ -11,14 +11,16 @@ Ziel dieses Repository ist es, auf Grundlage dieser Messdaten eine auch von ande
 ## Inhalte
 Blockentsäuerung
 - Allgemeine Beschreibung von Blockentsäuerungsverfahren
-- Beschreibung der genutzten Verharen innerhab der LISE/Westfalen
+- Beschreibung der genutzten Verharen innerhalb der LISE/Westfalen
 - Beschreibung der Meßmethode
 - Auswahl der Menge und Messpunkte
+- Qualitätssicherungstabelle Block LISE/Westfalen
 
 Einzelblattentsäuerung
 - Beschreibung des Verfahrens
 - Beschreibung der Meßmethode
 - Auswahl der Menge und Messpunkte
+- Qualitätssicherungstabelle Einzelblatt LISE/Westfalen
 
 # Struktur
 - _docs/
