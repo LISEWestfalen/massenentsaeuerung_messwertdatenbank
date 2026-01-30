@@ -1,3 +1,11 @@
+-MyRePository
+  -README.md
+  -LICENSE
+  -CODE OF CONDUCT
+  -CONTRIBIUTING
+      -installion.md
+      -usage.md
+
 # Aufbau des Repositorys
 Dieses Repository ist eine Datensammlung von pH-Werten vor und nach einer Mengenentsäuerung.
 
