@@ -14,13 +14,16 @@ Ordner Blockentsäuerung
 - Beschreibung der genutzten Verfahren innerhalb der LISE/Westfalen
 - Beschreibung der Meßmethode
 - Auswahl der Menge und Messpunkte
-- Qualitätssicherungstabelle Block LISE/Westfalen
+- LISE_QS_pH-Block.xlsx
 
 Ordner Einzelblattentsäuerung
 - Beschreibung des Verfahrens
 - Beschreibung der Meßmethode
 - Auswahl der Menge und Messpunkte
-- Qualitätssicherungstabelle Einzelblatt LISE/Westfalen
+- LISE_QS_pH-Block.xlsx
+
+Ordner Vorlagen
+-Vorlage.xlsx
 
 ## Contributing
 
