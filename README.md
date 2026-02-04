@@ -25,7 +25,7 @@ Ordner Einzelblattentsäuerung
 ## Contributing
 
 Vielen Dank für Ihr interesse an unserem Repository. Wenn Sie sich an der Erweiterung der Datenbank beteiligen wollen, klicken sie auf den folgenden Link für die Richtlinien und Anleitung zur Beteiligung:
-[Contribution guidlines for this projekt](doc/CONTRIBUTING.md)
+[Anleitung zur Beteiligung](doc/Contributing.md)
 
 ## Struktur
 - Vorlage/
