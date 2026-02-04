@@ -30,6 +30,10 @@ Ordner Vorlagen
 Vielen Dank für Ihr interesse an unserem Repository. Wenn Sie sich an der Erweiterung der Datenbank beteiligen wollen, klicken sie auf den folgenden Link für die Richtlinien und Anleitung zur Beteiligung:
 [Anleitung zur Beteiligung](Contributing.md)
 
+## Code of Conduct
+
+Verhaltensregeln zur Zusammenarbeit und die Konsequenzen bei Fehlverhalten siehe [Verhaltensregeln](Code_of_Conduct.md)
+
 ## Struktur
 - Vorlage/
   - README.md
