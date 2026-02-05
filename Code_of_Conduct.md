@@ -55,20 +55,20 @@ Moderator:innen nehmen Meldungen von Verstößen ernst und bemühen sich um eine
 Stellt das Moderationsteam nach einer Untersuchung einen Verstoß gegen diesen Verhaltenskodex fest, kann das folgende Eskalationsverfahren angewendet werden. Die Wahl der Maßnahme hängt von der Auswirkung des Vorfalls auf die Beteiligten und die Gemeinschaft ab. Je nach Schwere des Verstoßes können niedrigere Stufen übersprungen werden.
 
 1. Verwarnung  
-   1.1 Ereignis: Ein Verstoß, der einen einzelnen Vorfall oder eine Reihe von Vorfällen umfasst.  
-   1.2 Konsequenz: Eine private, schriftliche Verwarnung durch die Moderator:innen.  
-   1.3 Wiedergutmachung: Beispiele sind eine private, schriftliche Entschuldigung, Übernahme der Verantwortung und das Einholen von Klarstellungen zu den Erwartungen.  
+   1. Ereignis: Ein Verstoß, der einen einzelnen Vorfall oder eine Reihe von Vorfällen umfasst.  
+   2. Konsequenz: Eine private, schriftliche Verwarnung durch die Moderator:innen.  
+   3. Wiedergutmachung: Beispiele sind eine private, schriftliche Entschuldigung, Übernahme der Verantwortung und das Einholen von Klarstellungen zu den Erwartungen.  
 2. Vorübergehende Einschränkung von Aktivitäten
    1. Ereignis: Wiederholtes Auftreten eines Verstoßes nach einer Verwarnung oder ein erstmaliger schwerwiegender Verstoß.  
-   2. Konsequenz: Eine private, schriftliche Verwarnung mit einer zeitlich begrenzten Auszeit, um die Ernsthaftigkeit zu unterstreichen und den Beteiligten Zeit zur Verarbeitung zu geben. Diese Auszeit kann auf bestimmte                                Kommunikationskanäle oder Interaktionen beschränkt sein.  
+   2. Konsequenz: Eine private, schriftliche Verwarnung mit einer zeitlich begrenzten Auszeit, um die Ernsthaftigkeit zu unterstreichen und den Beteiligten Zeit zur                   Verarbeitung zu geben. Diese Auszeit kann auf bestimmte Kommunikationskanäle oder Interaktionen beschränkt sein.  
    3. Wiedergutmachung: Beispiele sind eine Entschuldigung, Reflexion während der Auszeit und achtsamer Wiedereintritt in die Gemeinschaft.  
 3. Vorübergehende Sperre  
    1. Ereignis: Ein Muster wiederholter Verstöße, die das Moderationsteam bereits mit Verwarnungen zu behandeln versucht hat, oder ein einzelner schwerwiegender Verstoß.  
-   2. Konsequenz: Eine private, schriftliche Verwarnung mit Bedingungen für eine Aufhebung der Sperre. Die Sperre dient der Reflexion über das Verhalten und mögliche Korrekturmassnahmen.  
-   3. Wiedergutmachung: Beispiele sind die Respektierung des Sinns der Sperre, Erfüllung der Bedingungen für eine Aufhebung der Sperre und achtsame Wiedereingliederung in die Gemeinschaft.  
+   2. Konsequenz: Eine private, schriftliche Verwarnung mit Bedingungen für eine Aufhebung der Sperre. Die Sperre dient der Reflexion über das Verhalten und mögliche                  Korrekturmassnahmen.  
+   3. Wiedergutmachung: Beispiele sind die Respektierung des Sinns der Sperre, Erfüllung der Bedingungen für eine Aufhebung der Sperre und achtsame Wiedereingliederung in die         Gemeinschaft.  
 4. Dauerhafter Ausschluss  
-   1. Ereignis: Ein Muster wiederholter Verstöße gegen den Verhaltenskodex, das durch andere Stufen der Eskalation nicht behoben werden konnte, oder ein so schwerwiegender Verstoß, dass das Moderationsteam keine Möglichkeit                           sieht, die Gemeinschaft mit dieser Person sicher zu halten.  
-   2. Konsequenz: Der Zugang zu allen Gemeinschaftsbereichen, Tools und Kommunikationskanälen wird entzogen. Dauerhafte Sperren sollten selten angewendet werden, gut begründet sein und nur dann erfolgen, wenn die Anwendung                              anderer Maßnahmen das Verhalten nicht ändern konnte.  
+   1. Ereignis: Ein Muster wiederholter Verstöße gegen den Verhaltenskodex, das durch andere Stufen der Eskalation nicht behoben werden konnte, oder ein so schwerwiegender            Verstoß, dass das Moderationsteam keine Möglichkeit sieht, die Gemeinschaft mit dieser Person sicher zu halten.  
+   2. Konsequenz: Der Zugang zu allen Gemeinschaftsbereichen, Tools und Kommunikationskanälen wird entzogen. Dauerhafte Sperren sollten selten angewendet werden, gut begründet        sein und nur dann erfolgen, wenn die Anwendung anderer Maßnahmen das Verhalten nicht ändern konnte.  
    3. Wiedergutmachung**: In Fällen dieser Schwere ist keine Wiedergutmachung möglich.
 
 Dieses Eskalationsverfahren dient als Richtlinie. Es schränkt die Fähigkeit der Gemeinschaftsleitung nicht ein, nach eigenem Ermessen und im besten Interesse unserer Gemeinschaft zu handeln.
