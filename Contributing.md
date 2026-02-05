@@ -1,25 +1,42 @@
 # Richtlinien zur Mitwirkung
 
-Dieser Abschnitt zeigt Ihnen wie Sie die Datenbank um Ihre Daten erweitern können bzw. wie Sie Fehler, Anmerkungen oder Fragen zu dieser Datenbank an die Moderator:innen melden können.
-Wenn Sie dieser Richtlinie folgen, ist für alle Beteiligten der Ablauf nachvollziebar, reproduzierbar und ein Vergleich ist leicht durchzuführen.
+Dieser Abschnitt erklärt Ihnen wie die Vorgehensweise in folgenden Fällen:
+1. Erweiterung der Datenbank um eigene pH-Wert Datensammlung
+2. Stellen von Fragen und übermitteln von Anmerkungen zur Datensammlung
+3. Meldungen von Unstimmigkeiten und Fehlern bei der Datensammlung und/oder dem Inhalt der Seite
+4. Nutzung der Datensammlung
+5. Einbringung von möglichen Forschungsfragen 
 
-In einem ersten Schritt muss ein Account auf  https://github.com erstellt werden 
+Auch wird erklärt, welche Berechtigungen einem Contributer zugesprochen sind und wie man ggf. von einer Beteiligung zurücktritt.
+
+Zusätzlich wird darauf hingewiesen, dass bei einer Beteiligung, die Person/Institution dem Code of Conduct siehe [Verhaltensregeln](Code_of_Conduct) und den Lizenzbedingungen siehe [Lizenz](License) zustimmt.
+
+Durch diese Richtlinien wird gewährleistet, dass die Nachvollzibarkeit, Reproduzierbarkeit und Vergleichbarkeit erhalten bleibt.
 
 
-## Einverständniserklärung
-
-Bei Beteiligung erklärt sich der Urheber bereit, dass die zur Verfügunggestellten Daten öffentlich zugänglich sind und durch Dritte weitergenutzt werden. [Lizenz](License)
-
-## Beteiligung anfragen
+## Erweiterung Datensammlung
 
 1. Schritt Erstellung eines Accounts auf
 2. Beteiligung anfragen unter substanzerhalt@lwl.org. In dieser Mail muss die Institutionen neben ihren eigenen Daten und der Ansprechperson, den Username auf github mitteilen, damit eine Einladungsmail verschickt werden kann.
 3. 
 
 
+## Fragen und Anmerkungen zur Datensammlung
 
-## Daten
 
-Nutzung der Daten
+## Meldung von Fehlern und Unstimmigkeiten
+
+
+## Nutzung der Datensammlung
+
+
+## Forschungsfragen einbringen
+
+
+## Berechtigungen
+
+## Rücktritt
+
+
 
 
