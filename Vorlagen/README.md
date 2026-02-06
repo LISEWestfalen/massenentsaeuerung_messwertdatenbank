@@ -29,4 +29,4 @@ Anzugeben ist der Name des Entsäuerungsverfahrens, falls dieses von mehreren Di
 Um das Verhältnis von der Anzahl der Messungen zur Menge des entsäuerten Schriftgutes zu dokumentieren ist hier die Anzahl der Objekte in der entsäuerten Charge anzugeben.
 
 **Position**  
-Angabe der Messposition nach verwendeter Positionsmaske (siehe Vorlage oder bei Abweichungen zu hinterlegen) oder sonstige Positionsangabe (z.B. oben links), bei Bedarf mit Erläuterung in einer separaten Datei.
+Angabe der Messposition nach verwendeter Positionsmaske ([siehe Vorlage](Positionsmaske_Oberflächenmessung.pdf) oder bei Abweichungen zu hinterlegen) oder sonstige Positionsangabe (z.B. oben links), bei Bedarf mit Erläuterung in einer separaten Datei.
