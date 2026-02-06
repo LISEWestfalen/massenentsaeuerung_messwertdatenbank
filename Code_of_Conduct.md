@@ -1,5 +1,5 @@
 
-# Contributor Covenant 
+# Verhaltenskodex entsprechend dem Contributor Covenant
 
 ## Unser Versprechen
 
