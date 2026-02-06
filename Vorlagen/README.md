@@ -1,7 +1,7 @@
 
 # Erläuterungen zu den Vorlagen Messwerttabelle_Oberflächenmessung und Messwerttabelle_Kaltextrakt
 
-Um die eingebrachten Daten möglichst vergleichbar zu machen sind je nach Messmethode die hinterlegten Tabellenvorlagen [Oberflächenmessung](Messwerttabelle_Oberflächenmessung.xlsx) oder [Kaltextrakt](Messwerttabelle_Kaltextrakt.xlsx) zu nutzen. Hierbei ist natürlich nicht notwendig alle Spalten auszufüllen, falls diese Daten nicht erhoben wurden.
+Um die eingebrachten Daten möglichst vergleichbar zu halten sind je nach Messmethode die hinterlegten Tabellenvorlagen [Oberflächenmessung](Messwerttabelle_Oberflächenmessung.xlsx) oder [Kaltextrakt](Messwerttabelle_Kaltextrakt.xlsx) zu nutzen. Hierbei ist natürlich nicht notwendig alle Spalten auszufüllen, falls diese Daten nicht erhoben wurden.
 
 Besondere Vorgaben gelten bei folgenden Spalten:
 
@@ -9,7 +9,7 @@ Besondere Vorgaben gelten bei folgenden Spalten:
 Der Aufbewahrungsort des Archiv-/Bibliotheksguts ist nach folgendem Schema zu bennen: Ort, Insitutionskürzel
 
 Sofern eine eigene etablierte Abkürzung für die Institution besteht (z.B: BLHA (=Brandenburgisches Landeshauptarchiv), BSB (=Bayerische Staatsbibliothek), 
-AAJB (=Archiv der Arbeiterjugendbewegung)) ist diese zu verwenden. Handelt es sich um einen Archivtypen ohne eigenes Kürzel, ist folgendermaßen abzukürzen:
+AAJB (=Archiv der Arbeiterjugendbewegung)) ist diese zu verwenden. Handelt es sich um einen Archivtypen ohne bekanntes eigenes Kürzel, ist folgendermaßen abzukürzen:
 
 - Staatsarchiv:        StaatsA
 - Kreisarchiv:         KreisA
