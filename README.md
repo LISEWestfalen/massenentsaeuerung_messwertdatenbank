@@ -86,7 +86,7 @@ Dieses Repository wird derzeit von LISE/Westfalen gepflegen.
 Bei Änderungen bitte den Prozess „Pflegeanleitung.md“ beachten.
 
 ## Lizenz
-Dieses Projekt steht unter der [Datenlizenz Deutschland – Namensnennung – Version 2.0 (DL-DE BY 2.0)](https://www.govdata.de/dl-de/by-2-0).  
+Dieses Projekt steht unter der [Datenlizenz Deutschland – Namensnennung – Version 2.0 (DL-DE BY 2.0)](https://www.govdata.de/dl-de/by-2-0) oder [Kopie von Govdata](License.md).  
 Sie dürfen die Inhalte unter Nennung der Quelle weiterverwenden.
 
 ---
