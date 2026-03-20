@@ -1,4 +1,4 @@
-# Projekt: Aufbau ph-Wert Datenbank
+# Projekt: Aufbau pH-Wert Datenbank
 Dieses Repository ist eine Datensammlung von pH-Werten vor und nach einer Mengenentsäuerung.
 
 Grundlage sind die Messdaten die bisher im Rahmen der Landesinitiative Substanzerhalt (LISE)/Westfalen gesammelt wurden und weiterhin erfasst werden, welche jährlich upgedated werden sollen.
@@ -12,29 +12,45 @@ Ziel dieses Repository ist es, auf Grundlage dieser Messdaten eine auch von ande
 
 ## Struktur
 
-- Blockentsäuerung/
-  - datensatz.xlsx
-  - Methodik zur Datengewinnung
-  - README.md
+**- Blockentsäuerung/**
+
+    - GSK_Archive-CP.pdf
     
-- Einzelblattentsäuerung/
-  - datensatz.xlsx
-  - Methodik zur Datengewinnung
-  - README.md
+    -Methodik der Datengewinniung.pdf
     
-- Vorlage/
-  - README.md
-  - Vorlage_Kalextrakt.xlsx
-  - Vorlage_Oberflächenmessung
-  - Vorlage_Positionsmaske_Oberflächenmessung
+    - NCA Papersave swiss.pdf
     
-- Code_of_Conduct.md
+    - PAL Booksaver.pdf
+    
+    - README.md
+    
+    - LISEWestfalen_Messwertabelle_Block.xlsx
+    
+**- Einzelblattentsäuerung/**
+
+    - PAS_Einzelblattverfahren
+    
+    - README.md
+    
+    - LISEWestfalen_Messwerttabelle_Einzelblatt
+    
+**- Vorlage/**
+
+    - Messwerttabelle_Kaltextract.xlsx
+    
+    - Messwerttabelle_Oberflächenmessungen.xlsx
+    
+    - Positionsmaske_Oberflächenmessungen.pdf
+    
+    - README.md    
+
+**- Code_of_Conduct.md**
   
-- Contributing.md
+**- Contributing.md**
   
-- LICENSE.md
+**- LICENSE.md**
   
-- README.md
+**- README.md**
 
 
 ## Inhalte
@@ -45,25 +61,26 @@ Ziel dieses Repository ist es, auf Grundlage dieser Messdaten eine auch von ande
 - README.md -> Allgemeine Beschreibung von Blockentsäuerungsverfahren & Beschreibung der genutzten Verfahren durch die LISE/Westfalen
 
 **Ordner Einzelblattentsäuerung**
-- LISE_QS_pH-Block.xlsx
+- LISEWestfalen_Messwerttabelle_Einzelblatt.xlsx
 - Methodik der Datengewinnung.pdf -> Beschreibung der Meßmethode sowie die Darlegung der Auswahl der Messmenge und Messpunkte
 - README.md -> Allgemeine Beschreibung der wässrigen Entsäuerung & Beschreibung des genutzten Verfahrens durch die LISE/Westfalen
 
 **Ordner Vorlagen**
-- Vorlage.xlsx
-- 
+- Messwerttabelle_Kaltextrakt.xlsx
+- Messwerttabelle_Oberflächenmessung.xlsx
+- Positionsmaske_Oberflächenmessung.pdf
+
+## Verhaltenscodex/Code of Conduct
+
+Verhaltensregeln zur Zusammenarbeit und die Konsequenzen bei Fehlverhalten siehe [Verhaltensregeln](Code_of_Conduct.md)
 
 ## Mitwirkung bei der Erweiterung der Datensammlung/Contributing
 
 Vielen Dank für Ihr interesse an unserem Repository. Wenn Sie sich an der Erweiterung der Datenbank beteiligen wollen, klicken Sie auf den folgenden Link:
 [Anleitung zur Beteiligung](Contributing.md)
 
-## Verhaltenscodex/Code of Conduct
-
-Verhaltensregeln zur Zusammenarbeit und die Konsequenzen bei Fehlverhalten siehe [Verhaltensregeln](Code_of_Conduct.md)
-
-## Pflege
-Dieses Repository wird derzeit von LISE/Westfalen gepflegt.  
+## Pflegeanleitung
+Dieses Repository wird derzeit von LISE/Westfalen gepflegen.  
 Bei Änderungen bitte den Prozess „Pflegeanleitung.md“ beachten.
 
 ## Lizenz
