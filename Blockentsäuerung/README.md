@@ -4,8 +4,8 @@ Die Blockentsäuerung beschreibt ein standardisiertes Verfahren der Mengenentsä
 
 Im Projekt Landesinitiative Substanzerhalt genutzte Verfahren:
 
-[Verfahrensbeschreibung 1](GSK_Archive-CP.pdf)
+[Verfahrensbeschreibung GSK Block](GSK_Archive-CP.pdf)
 
-[Verfahrensbeschreibung 2](NCA_Papersave_swiss.pdf)
+[Verfahrensbeschreibung NCA](NCA_Papersave_swiss.pdf)
 
-[Verfahrensbeschreibung 3](PAL_Booksaver.pdf)
+[Verfahrensbeschreibung PAL](PAL_Booksaver.pdf)
