@@ -1,5 +1,5 @@
-Die Entsäuerung ist ein konservatorisches Verfahren, dass ein altbekannter Arbeitsschritt innerhalb einer Restaurierung von säuregeschädigten Objekten ist.
-Hierzu wird klassischer Weise mittels eines in Wasser gelösten Erdalkalicarbonats die Säure im Papier neutralisiert und ein Alkalipuffereingebracht.
+Die Einzelblattentsäuerung beschreibt im klassischen Sinne ein konservatorisches Verfahren innerhalb der Restaurierung von Papierobjekten, welche einen säurebedingten Papierzerfall aufweisen.
+Hierzu wird mittels eines in Wasser gelösten Erdalkalicarbonats die Säure im Papier neutralisiert und ein Alkalipuffereingebracht.
 
 Die Umsetzung sieht im klassischen Fall folgendermaßen aus:
 
@@ -9,6 +9,6 @@ Die Blätter werden in ihren Vliessandwiches in ein Gemisch aus demineralisierte
 
 Das Bad wird regelmäßig gewechselt, bis das Wasser klar bleibt. Dabei wird der Anteil des demineralisierten Wassers stetig erhöht. Nach dem Wässerungsvorgang wird der Sandwichstapel in eine Wanne mit angereichertem Wasser gelegt. Die Anreicherung des demineralisierten Wassers erfolgt mit Calcium- und Magnesiumhydrogencarbonat.
 
-Nach dem Einbringen der alkalischen Reserve werden die Papier nachgeleimt und weitere restauratorische Maßnahmen durchgeführt.
+Nach dem Einbringen der alkalischen Reserve werden die Papier nachgeleimt und weitere restauratorische Maßnahmen wie zum Beispiel Stabilisierungsmaßnahmen durchgeführt.
 
 Eine annäherde Umsetzung wurde Ende der 1980er maschinell für Mengen umgesetzt s. [Bückeburger-Verfahren](PAS_Bückeburger Conservation Process), welches eins der genutzten Verfahren innerhalb der LISEWestfalen darstellt.
