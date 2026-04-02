@@ -11,7 +11,7 @@ Auch wird erklärt, welche Berechtigungen einem Contributer zugesprochen sind un
 
 Zusätzlich wird darauf hingewiesen, dass bei einer Beteiligung, die Person/Institution dem Code of Conduct siehe [Verhaltensregeln](Code_of_Conduct) und den Lizenzbedingungen siehe [Lizenz](License) zustimmt.
 
-Durch diese Richtlinien wird gewährleistet, dass die Nachvollzibarkeit, Reproduzierbarkeit und Vergleichbarkeit erhalten bleibt.
+Durch diese Richtlinien wird gewährleistet, dass die Nachvollziehbarkeit, Reproduzierbarkeit und Vergleichbarkeit erhalten bleibt.
 
 
 ## Erweiterung Datensammlung
