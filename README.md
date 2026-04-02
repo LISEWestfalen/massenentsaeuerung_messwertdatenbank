@@ -1,4 +1,4 @@
-# Projekt: Aufbau pH-Wert Datenbank
+# Projekt: Aufbau einer pH-Wert Datenbank
 Dieses Repository ist eine Datensammlung von pH-Werten vor und nach einer Mengenentsäuerung.
 
 Grundlage sind die Messdaten, die bisher im Rahmen der Landesinitiative Substanzerhalt (LISE)/Westfalen gesammelt wurden und weiterhin erfasst werden. Eine jährliche Erweiterung der Datensammlung um die aktuellen Messdaten ist vorgesehen.
@@ -41,7 +41,7 @@ Ziel dieses Repository ist es, auf Grundlage dieser Messdaten eine auch von ande
     
     - LISEWestfalen_Messwerttabelle_Einzelblatt
     
-**- Vorlage/**
+**- Vorlagen/**
 
     - Messwerttabelle_Kaltextract.xlsx
     
