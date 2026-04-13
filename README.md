@@ -90,7 +90,7 @@ Vielen Dank für Ihr Interesse an unserem Repository. Wenn Sie sich an der Erwei
 
 ## Pflegeanleitung
 Dieses Repository wird derzeit von LISEWestfalen gepflegt.  
-Bei Änderung von Rollen und Aufgabenverteilung [Pflegeanleitung](Pflegeanleitung.md) vornehmen.
+Bei Änderung von Rollen und Aufgabenverteilung [Pflegeanleitung](Maintenance.md) vornehmen.
 
 ## Lizenz
 Dieses Projekt steht unter der [Datenlizenz Deutschland – Namensnennung – Version 2.0 (DL-DE BY 2.0)](https://www.govdata.de/dl-de/by-2-0) oder [Kopie von Govdata](License.md).  
