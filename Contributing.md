@@ -3,7 +3,7 @@
 Beiträge zur Unterstüzung des Projektes sind willkommen. Auf folgende Weise kann das Projekt unterstützt werden:
 
 + pH-Wertsammlung hinzufügen sei es auf Basis eines eigenen Massenentsäuerungsprojektes/Auftrages, Validierung eines Entsäuerungsverfahrens oder im Rahmen eines    Forschungsprojektes gewonnene Werte und Daten
-+ Daten Struktur optimieren
++ Datenstruktur optimieren
 + Technische Features entwickeln
 + Forschungsfragen einbringen und bearbeiten
 
@@ -46,7 +46,6 @@ Die Nutzung der Datensammlung ist wie oben genannt unter Namensnennung der Quell
 Die Datensammlung wird über die vorhandenen Guidlines, Berechtigungen und Dokumentationen gesteuert, welche von der LISEWestfalen als (Maintainer) gesteuert wird.
 Des Weiteren ist ein API Zugriff geplant, damit die Nutzung beobachtet und gegebenenfalls an Interessen angepasst werdenkann.
 
-
 ## Berechtigungen
 Durch die LISEWestfalen (Maintainer) werden Berechtigungen wie Schreib- und Leserechte vergeben und verwaltet, welche bei zur Widerhandlung der Guidlines (Code of Conduct, Licence etc.) wieder aufgehoben werden oder gegebenenfalls mit Sperrfristen belegt sind.
 Im Streitfall falls keine Einigung mittels Issues oder Pull requests erzielt werden kann, trifft die LISEWestfalen die finale Entscheidung.
@@ -64,7 +63,7 @@ Bei Austritt gilt:
 
 
 
-Diese Richtlinien und Lizenzen können durch den Maintainer angepasst werden. Größere Änderungen werden in der Community diskutiert und durch die LISEWestfalen letztendlich der Öffentlichkeit präsentiert.
+Die bestehenden Richtlinien und Lizenzen können durch den Maintainer angepasst werden. Größere Änderungen werden in der Community diskutiert und durch die LISEWestfalen letztendlich der Öffentlichkeit präsentiert.
 Änderungen werden im Reposiory dokumentiert.
 
 ## Haftung & Verantwortung
