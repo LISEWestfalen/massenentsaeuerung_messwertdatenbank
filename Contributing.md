@@ -10,7 +10,7 @@ Beiträge zur Unterstüzung des Projektes sind willkommen. Auf folgende Weise ka
 # Vorraussetzung für Beiträge
 
 Damit die Qualität der Datenbank gewährleistet bleibt, müssen alle Beiträge diese Kriterien erfüllen:
-+ Nachvollziehbarkeit:
++ Nachvollziehbarkeit: 
 + Konsistenz:
 + Neutralität:
 
@@ -43,17 +43,34 @@ Dies kann auf folgenden Wegen geschehen:
 
 ## Nutzung der Datensammlung
 Die Nutzung der Datensammlung ist wie oben genannt unter Namensnennung der Quelle frei zu gänglich. 
-Die Datensammlung wird über die vorhandenen Guidlines, Berechtigungen und Dokumentationen gesteuert.
-Des Weiteren ist ein API Zugriff geplan, damit die Nutzung beobachtet und gegebenenfalls an Interessen angepasst werdenkann.
+Die Datensammlung wird über die vorhandenen Guidlines, Berechtigungen und Dokumentationen gesteuert, welche von der LISEWestfalen als (Maintainer) gesteuert wird.
+Des Weiteren ist ein API Zugriff geplant, damit die Nutzung beobachtet und gegebenenfalls an Interessen angepasst werdenkann.
 
 
 ## Berechtigungen
-Durch die LISEWestfalen werden Berechtigungen wie Schreib- und Leserechte vergeben, welche bei zur Widerhandlung der Guidlines ( Code of Conduct, Licence etc.) wieder aufgehoben werden oder gegebenenfalls mit Sperrfristen belegt sind.
+Durch die LISEWestfalen (Maintainer) werden Berechtigungen wie Schreib- und Leserechte vergeben und verwaltet, welche bei zur Widerhandlung der Guidlines (Code of Conduct, Licence etc.) wieder aufgehoben werden oder gegebenenfalls mit Sperrfristen belegt sind.
+Im Streitfall falls keine Einigung mittels Issues oder Pull requests erzielt werden kann, trifft die LISEWestfalen die finale Entscheidung.
+Beteiligte (Contributors) liefern Daten, Dokumentationen oder Ideen passend zum Projekt, haben aber kein automatisches Entscheidungsrechte.
 
-## Rücktritt
-Wer si
+## Austritt aus dem Projekt
+Ein Austritt ist jederzeit möglich.
 
-Diese Richtlinien können angepasst werden. Änderungen werden im Reposiory dokumentiert.
+Bei Austritt gilt:
++ Bereits geleistete Beiträge bleiben im Projekt
++ Es besteht kein Anspruch auf Entfernung der Daten
++ Rollen und Zugriffsrechte werden entzogen
++ offene Aufgaben werden übergeben
++ Wissen muss dokumentiert sein
+
+
+
+Diese Richtlinien und Lizenzen können durch den Maintainer angepasst werden. Größere Änderungen werden in der Community diskutiert und durch die LISEWestfalen letztendlich der Öffentlichkeit präsentiert.
+Änderungen werden im Reposiory dokumentiert.
+
+## Haftung & Verantwortung
++ Beiträge erfolgen freiwillig
++ Keine Garantie für Funktion oder Vollständigkeit
++ Nutzung erfolgt auf eigene Verantwortung
 
 ## Unterstützen
 Wenn Ihnen dieses Projekt gefällt, hinterlassen Sie einen (emoji Stern) auf GitHub.
