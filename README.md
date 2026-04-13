@@ -19,7 +19,7 @@ Ziel dieses Repository ist es, auf Grundlage dieser Messdaten eine auch von ande
 
     - LISEWestfalen_Dienstleister nach Haushaltsjahren.pdf
     
-    - LISEWestfalen_Methodik zur Datengewinnung.docx
+    - LISEWestfalen_Methodik zur Datengewinnung.pdf
     
     - NCA Papersave swiss.pdf
     
@@ -33,7 +33,7 @@ Ziel dieses Repository ist es, auf Grundlage dieser Messdaten eine auch von ande
 
     - LISEWestfalen_Dienstleister nach Haushaltsjahren.pdf
     
-    - LISEWestfalen_Methodik zur Datengewinnung.docx
+    - LISEWestfalen_Methodik zur Datengewinnung.pdf
     
     - PAS_Bückeburger Conservation Process.pdf
     
@@ -56,6 +56,8 @@ Ziel dieses Repository ist es, auf Grundlage dieser Messdaten eine auch von ande
 **- Contributing.md**
   
 **- LICENSE.md**
+
+**- Pflegeanleitung.md**
   
 **- README.md**
 
@@ -87,8 +89,8 @@ Vielen Dank für Ihr Interesse an unserem Repository. Wenn Sie sich an der Erwei
 [Anleitung zur Beteiligung](Contributing.md)
 
 ## Pflegeanleitung
-Dieses Repository wird derzeit von LISE/Westfalen gepflegt.  
-Bei Änderungen bitte den Prozess „Pflegeanleitung.md“ beachten.
+Dieses Repository wird derzeit von LISEWestfalen gepflegt.  
+Bei Änderung von Rollen und Aufgabenverteilung [Pflegeanleitung](Pflegeanleitung.md) vornehmen.
 
 ## Lizenz
 Dieses Projekt steht unter der [Datenlizenz Deutschland – Namensnennung – Version 2.0 (DL-DE BY 2.0)](https://www.govdata.de/dl-de/by-2-0) oder [Kopie von Govdata](License.md).  
