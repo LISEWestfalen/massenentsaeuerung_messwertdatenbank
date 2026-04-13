@@ -1,6 +1,6 @@
 # Pflegeanleitung
 
-Der Besitzer des Repositorys LISEWestfalen (Leitung des Teams LISE) entscheidet verfügt über alle Administrativenrechte und bestimmt, welches Teammitglied innerhalb der Organisation die Rolle des Maintainers übernimmt. 
+Der Besitzer des Repositorys momentan LISEWestfalen (Leitung des Teams LISE) entscheidet verfügt über alle Administrativenrechte und bestimmt, welches Teammitglied innerhalb der Organisation die Rolle des Maintainers übernimmt. 
 
 Derzeit ist diese Rolle Maintainer an: 
 
@@ -20,12 +20,21 @@ Dem Maintainer obliegt auch die Überprüfung der Richtigkeit und Stimmigkeit al
 
 Collabortors:
 Ein Collaborator (Mitarbeiter) erhält direkten Schreibzugriff (PushRechte) auf das Repository.
-Derzeit sind folgende Rolle besetzt:
+
+Derzeit sind folgende Rollen besetzt:
 
 Datenbeauftragter ist 
-Dem Datenbeauftragten obliegt es die 
 
-Technische Unterstützung macht
+Dem Datenbeauftragten obliegt es die Überprüfung der Daten auf ihre Stimmigkeit und Einhaltung der Vorgaben nach den exsitierenden Richtlinien. Die Person pflegt die entsprechenden Lizenzen und Guidlines.
+
+Technische Unterstützung (Triage) macht: Julian/Dominik?
+
+Diese Rolle umfasst das Verwalten von Issues und Pull Requests (Labeln, Zuweisen, Schließen und Priorisierung), ohne Schreibzugriff auf den Code zu haben.
+Hauptaufgaben des technischen Supports auf GitHub:
+Issues Verwalten: Identifizierung, Priorisierung, Labeling (z.B. bug, question) und Beantwortung von Benutzeranfragen.
+Pull Request Review: Unterstützung bei der Prüfung von Beiträgen die einen technischen Hintergrund haben.
+Automatisierung (GitHub Actions/Projects): Einrichten von Workflows zur automatischen Zuweisung von Labels oder zum Schließen von Issues, um den Support-Prozess effizienter zu gestalten.
+Dokumentation: Pflege der CONTRIBUTING-Datei, um Support-Anfragen zu minimieren.
 
 
 Contributer:
