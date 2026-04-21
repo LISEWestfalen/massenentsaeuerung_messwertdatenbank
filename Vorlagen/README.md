@@ -1,15 +1,15 @@
 
 # Erläuterungen zu den Vorlagen Messwerttabelle_Oberflächenmessung und Messwerttabelle_Kaltextrakt
 
-Um die eingebrachten Daten möglichst vergleichbar zu halten sind je nach Messmethode die hinterlegten Tabellenvorlagen [Oberflächenmessung](Messwerttabelle_Oberflächenmessung.xlsx) oder [Kaltextrakt](Messwerttabelle_Kaltextrakt.xlsx) zu nutzen. Hierbei ist es natürlich nicht notwendig alle Spalten auszufüllen, falls diese Daten nicht erhoben wurden oder aus datenschutzrechtlichen Gründen nicht veröffentlicht werden können.
+Um die eingebrachten Daten möglichst vergleichbar zu halten, sind je nach Messmethode die hinterlegten Tabellenvorlagen [Oberflächenmessung](Messwerttabelle_Oberflächenmessung.xlsx) oder [Kaltextrakt](Messwerttabelle_Kaltextrakt.xlsx) zu nutzen. Hierbei ist es natürlich nicht notwendig alle Spalten auszufüllen, falls diese Daten nicht erhoben wurden oder aus datenschutzrechtlichen Gründen nicht veröffentlicht werden können.
 
 Besondere Vorgaben gelten bei folgenden Spalten:
 
 **Archiv / Bibliothek**   
 Der Aufbewahrungsort des Archiv-/Bibliotheksguts ist nach folgendem Schema zu bennen: Ort, Insitutionskürzel
 
-Sofern eine eigene etablierte Abkürzung für die Institution besteht (z.B: BLHA (=Brandenburgisches Landeshauptarchiv), BSB (=Bayerische Staatsbibliothek), 
-AAJB (=Archiv der Arbeiterjugendbewegung)) ist diese zu verwenden. Handelt es sich um einen Archivtypen ohne bekanntes eigenes Kürzel, ist folgendermaßen abzukürzen:
+Sofern eine eigene etablierte Abkürzung für die Institution besteht, z.B: BLHA (=Brandenburgisches Landeshauptarchiv), BSB (=Bayerische Staatsbibliothek), 
+AAJB (=Archiv der Arbeiterjugendbewegung), ist diese zu verwenden. Handelt es sich um einen Archivtypen ohne bekanntes eigenes Kürzel, ist folgendermaßen abzukürzen:
 
 - Staatsarchiv:        StaatsA
 - Kreisarchiv:         KreisA
@@ -26,7 +26,7 @@ Da der genaue Herstellungszeitpunkt des gemessenen Papiers nicht ohne technische
 Anzugeben ist der Name des Entsäuerungsverfahrens. Falls dieses von mehreren Dienstleistern angeboten wird, ist in Klammern der ausführende Dienstleister zu nennen.
 
 **Objekte pro Bestand / Teilbestand**  
-Um das Verhältnis von der Anzahl der Messungen zur Menge des entsäuerten Schriftgutes zu dokumentieren ist hier die Anzahl der Objekte in der entsäuerten Charge anzugeben.
+Um das Verhältnis von der Anzahl der Messungen zur Menge des entsäuerten Schriftgutes zu dokumentieren, ist hier die Anzahl der Objekte in der entsäuerten Charge anzugeben.
 
 **Position**  
-Angabe der Messposition nach verwendeter Positionsmaske ([siehe Vorlage](Positionsmaske_Oberflächenmessung.pdf) oder bei Abweichungen zu hinterlegen) oder sonstige Positionsangabe (z.B. oben links), bei Bedarf mit Erläuterung in einer separaten Datei.
+Angabe der Messposition nach verwendeter Positionsmaske [siehe Vorlage](Positionsmaske_Oberflächenmessung.pdf). Sonstige Positionsangaben (z.B. oben links) oder Abweichungen  sind bei Bedarf in einer separaten Datei zu erläutern.
