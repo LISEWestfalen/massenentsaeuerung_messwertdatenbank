@@ -72,6 +72,6 @@ Die bestehenden Richtlinien und Lizenzen können durch den Maintainer angepasst 
 + Nutzung erfolgt auf eigene Verantwortung
 
 ## Unterstützen
-Wenn Ihnen dieses Projekt gefällt, hinterlassen Sie einen (emoji Stern) auf GitHub.
+Wenn Ihnen dieses Projekt gefällt, hinterlassen Sie einen ⭐ auf GitHub.
 
 
