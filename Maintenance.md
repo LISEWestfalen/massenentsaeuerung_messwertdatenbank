@@ -1,6 +1,6 @@
 # Pflegeanleitung
 
-Der Besitzer des Repositorys, momentan LISEWestfalen (Leitung des Teams LISE), verfügt über alle Administrativenrechte und bestimmt, welches Teammitglied innerhalb der Organisation die Rolle des Maintainers übernimmt. 
+Der Besitzer des Repositorys, momentan LISE-Westfalen, verfügt über alle Administrativenrechte und bestimmt, welches Teammitglied innerhalb der Organisation die Rolle des Maintainers übernimmt. 
 
 Derzeit ist diese Rolle Maintainer an: 
 
