@@ -14,7 +14,7 @@ Des Weiteren gehört zu den Aufgaben des Maintaners:
 + Projekt-Koordination: Festlegung von Prioritäten, Zielsetzung und langfristiger Strategie
 + Repetitive Aufgaben wie Labeling oder Issue-Zuweisung durch GitHub Actions zu steuern (Automatisierung)
 
-Zusätzlich werden die Dateien LISE-Westfalen_Messwerttabelle_Block.xlms und LISE-Westfalen_Messwerttabelle_Einzelblatt.xlms einmal jährlich durch den Maintainer erweitert. 
+Zusätzlich werden die Dateien LISEWestfalen_Messwerttabelle_Block.xlms und LISEWestfalen_Messwerttabelle_Einzelblatt.xlms einmal jährlich durch den Maintainer erweitert. 
 Hierzu sind alle Vorgaben zur Bearbeitung unter Blockentsäuerung/README.md sowie Einzelblattentsäuerung/README.md zu beachten, damit die Daten konsistent und nachvollziebar bleiben. (Wird demnächst an ein anderes Teammitglied abgegeben)
 Dem Maintainer obliegt auch die Überprüfung der Richtigkeit und Stimmigkeit aller Richtlinien und Readmedateien der LISE-Westfalen.
 
