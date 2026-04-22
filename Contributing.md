@@ -42,7 +42,7 @@ Dies kann auf folgenden Wegen geschehen:
 + mittels GitHub Issues
 
 ## Nutzung der Datensammlung
-Die Nutzung der Datensammlung ist wie oben genannt unter Namensnennung der Quelle frei zu gänglich. 
+Die Nutzung der Datensammlung ist wie oben genannt unter Namensnennung der Quelle freizugänglich. 
 Die Datensammlung wird über die vorhandenen Guidlines, Berechtigungen und Dokumentationen gesteuert, welche von der LISE-Westfalen als Maintainer gesteuert wird.
 Des Weiteren ist ein API-Zugriff geplant, damit die Nutzung beobachtet und gegebenenfalls an Interessen angepasst werden kann.
 
@@ -64,7 +64,7 @@ Bei Austritt gilt:
 
 
 Die bestehenden Richtlinien und Lizenzen können durch den Maintainer angepasst werden. Größere Änderungen werden in der Community diskutiert und durch die LISE-Westfalen letztendlich der Öffentlichkeit präsentiert.
-Änderungen werden im Reposiory dokumentiert.
+Änderungen werden im Repository dokumentiert.
 
 ## Haftung & Verantwortung
 + Beiträge erfolgen freiwillig
