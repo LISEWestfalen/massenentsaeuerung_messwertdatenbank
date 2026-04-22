@@ -1,6 +1,6 @@
 # Pflegeanleitung
 
-Der Besitzer des Repositorys, momentan LISE-Westfalen, verfügt über alle Administrativenrechte und bestimmt, welches Teammitglied innerhalb der Organisation die Rolle des Maintainers übernimmt. 
+Der Besitzer des Repositorys, momentan LISE-Westfalen, verfügt über alle administrativen Rechte und bestimmt, welches Teammitglied innerhalb der Organisation die Rolle des Maintainers übernimmt. 
 
 Derzeit ist diese Rolle Maintainer an: 
 
@@ -15,8 +15,8 @@ Des Weiteren gehört zu den Aufgaben des Maintaners:
 + Repetitive Aufgaben wie Labeling oder Issue-Zuweisung durch GitHub Actions zu steuern (Automatisierung)
 
 Zusätzlich werden die Dateien LISEWestfalen_Messwerttabelle_Block.xlms und LISEWestfalen_Messwerttabelle_Einzelblatt.xlms einmal jährlich durch den Maintainer erweitert. 
-Hierzu sind alle Vorgaben zur Bearbeitung unter Blockentsäuerung/README.md sowie Einzelblattentsäuerung/README.md zu beachten, damit die Daten konsistent und nachvollziebar bleiben. (Wird demnächst an ein anderes Teammitglied abgegeben)
-Dem Maintainer obliegt auch die Überprüfung der Richtigkeit und Stimmigkeit aller Richtlinien und Readmedateien der LISE-Westfalen.
+Hierzu sind alle Vorgaben zur Bearbeitung unter Blockentsäuerung/README.md sowie Einzelblattentsäuerung/README.md zu beachten, damit die Daten konsistent und nachvollziehbar bleiben. (Wird demnächst an ein anderes Teammitglied abgegeben)
+Dem Maintainer obliegt auch die Überprüfung der Richtigkeit und Stimmigkeit aller Richtlinien und Readme-Dateien der LISE-Westfalen.
 
 Collabortors:
 Ein Collaborator (Mitarbeiter) erhält direkten Schreibzugriff (PushRechte) auf das Repository.
@@ -25,7 +25,7 @@ Derzeit sind folgende Rollen besetzt:
 
 Datenbeauftragter ist (N.N.)
 
-Dem Datenbeauftragten obliegt es die Überprüfung der Daten auf ihre Stimmigkeit und Einhaltung der Vorgaben nach den exsitierenden Richtlinien. Die Person pflegt die entsprechenden Lizenzen und Guidlines.
+Dem Datenbeauftragten obliegt es die Überprüfung der Daten auf ihre Stimmigkeit und Einhaltung der Vorgaben nach den existierenden Richtlinien. Die Person pflegt die entsprechenden Lizenzen und Guidlines.
 
 Technische Unterstützung (Triage) macht: (N.N.)
 
@@ -34,7 +34,7 @@ Hauptaufgaben des technischen Supports auf GitHub:
 Issues Verwalten: Identifizierung, Priorisierung, Labeling (z.B. bug, question) und Beantwortung von Benutzeranfragen.
 Pull Request Review: Unterstützung bei der Prüfung von Beiträgen die einen technischen Hintergrund haben.
 Automatisierung (GitHub Actions/Projects): Einrichten von Workflows zur automatischen Zuweisung von Labels oder zum Schließen von Issues, um den Support-Prozess effizienter zu gestalten.
-Dokumentation: Pflege der CONTRIBUTING-Datei, um Support-Anfragen zu minimieren.
+Dokumentation: Pflege der CONTRIBUTING.md-Datei, um Support-Anfragen zu minimieren.
 
 
 Contributer:
