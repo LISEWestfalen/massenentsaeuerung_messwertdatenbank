@@ -25,7 +25,7 @@ Durch diese Richtlinien wird gewährleistet, dass die Nachvollziehbarkeit, Repro
 3. Um den Beitrag/die eigene Datensammlung einzureichen ist:
    + Das Repository zu forken
    + Die Änderung in einem neuen Branch vorzunehmen
-   + Die Daten im gegebenen Format hochzuladen, siehe [Erläuterung Messwerttabelle](Messwerttabelle/README.md).
+   + Die Daten im gegebenen Format einzugeben, siehe [Erläuterung Messwerttabelle](Messwerttabelle/README.md).
    + Pull Request erstellen
    + Eine kurze Beschreibung der Änderung hinzuzufügen
      
