@@ -1,7 +1,13 @@
 
-# Erläuterungen zu den Vorlagen Messwerttabelle_Oberflächenmessung und Messwerttabelle_Kaltextrakt
+# Erläuterungen zu Messwerttabelle
 
-Um die eingebrachten Daten möglichst vergleichbar zu halten, sind je nach Messmethode die hinterlegten Tabellenvorlagen [Oberflächenmessung](Messwerttabelle_Oberflächenmessung.xlsx) oder [Kaltextrakt](Messwerttabelle_Kaltextrakt.xlsx) zu nutzen. Hierbei ist es natürlich nicht notwendig alle Spalten auszufüllen, falls diese Daten nicht erhoben wurden oder aus datenschutzrechtlichen Gründen nicht veröffentlicht werden können.
+Für eine einheitliche Erfassung von pH-Messwerten sind im Ordner Messwerttabelle die Vorlage Messwertabelle_Kaltextrakt und die Tabelle Messwertabelle_Oberfläche mit den gesammelten Daten der LISE-Westfalen hinterlegt.
+Je nach genutzter Messmethode ist nach dem Forken die entsprechende Tabelle in der eigenen Branch zu befüllen und mittels Pull request mit der Grundttabelle zu verschmelzen.
+Damit ist gewährleistet, dass jeder Beteiligte immer mit der aktuellsten Tabelle arbeitet.
+
+Bei Nutzung dieser Tabellen ist es nicht zwingend erforderlich alle Spalten auszufüllen, wenn diese Daten nicht erhoben wurden oder aus datenschutzrechtlichen Gründen nicht veröffentlicht werden können.
+
+Beide Tabellen verfügen über den Reiter Eingabeformular. Über dieses Eingabeformular soll die Datenbank befüllt werden.
 
 Besondere Vorgaben gelten bei folgenden Spalten:
 
@@ -29,4 +35,4 @@ Anzugeben ist der Name des Entsäuerungsverfahrens. Falls dieses von mehreren Di
 Um das Verhältnis von der Anzahl der Messungen zur Menge des entsäuerten Schriftgutes zu dokumentieren, ist hier die Anzahl der Objekte in der entsäuerten Charge anzugeben.
 
 **Position**  
-Angabe der Messposition nach verwendeter Positionsmaske [siehe Vorlage](Positionsmaske_Oberflächenmessung.pdf). Sonstige Positionsangaben (z.B. oben links) oder Abweichungen  sind bei Bedarf in einer separaten Datei zu erläutern.
+Angabe der Messposition nach verwendeter Positionsmaske [siehe Vorlage](Positionsmaske_Oberflächenmessung.pdf). Sonstige Positionsangaben (z.B. oben links) oder andere Abweichungen  sind bei Bedarf in einer separaten Datei zu erläutern.
