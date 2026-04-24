@@ -13,4 +13,4 @@ Das Bad wird regelmäßig gewechselt bis das Wasser klar bleibt. Dabei wird der 
 
 Nach dem Einbringen der alkalischen Reserve werden die Papiere nachgeleimt und weitere restauratorische Maßnahmen wie zum Beispiel Stabilisierungsmaßnahmen durchgeführt.
 
-Eine annähernde Umsetzung wurde Ende der 1980er-Jahre maschinell für Mengen umgesetzt s. [Bückeburger-Verfahren](PAS_Bückeburger Conservation Process), sie stellt eines der genutzten Verfahren innerhalb der LISE-Westfalen dar.
+Eine annähernde Umsetzung wurde Ende der 1980er-Jahre maschinell für Mengen umgesetzt s. [Bückeburger-Verfahren](PAS_Bückeburger Conservation Process.pdf), sie stellt eines der genutzten Verfahren innerhalb der LISE-Westfalen dar.
