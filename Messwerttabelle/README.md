@@ -1,11 +1,11 @@
 
 # Erläuterungen zu Messwerttabelle
 
-Für eine einheitliche Erfassung von pH-Messwerten sind im Ordner Messwerttabelle die Vorlage Messwertabelle_Kaltextrakt und die Tabelle Messwertabelle_Oberfläche mit den gesammelten Daten der LISE-Westfalen hinterlegt.
-Je nach genutzter Messmethode ist nach dem Forken die entsprechende Tabelle in der eigenen Branch zu befüllen und mittels Pull request mit der Grundttabelle zu verschmelzen.
+Für eine einheitliche Erfassung von pH-Messwerten befinden sich im Ordner Messwerttabelle die Vorlage Messwertabelle_Kaltextrakt, die Tabelle Messwertabelle_Oberfläche_Block, sowie die Tabelle Messwerttabelle_Oberfläche_Einzelblatt. In den Tabellen Oberfläche_Block und Oberfläche_Einzelblatt sind die gesammelten Daten der LISE-Westfalen hinterlegt.
+Je nach genutzter Messmethode ist nach dem Forken die entsprechende Tabelle in der eigenen Branch zu befüllen und mittels Pull request mit der Grundtabelle zu verschmelzen.
 Damit ist gewährleistet, dass jeder Beteiligte immer mit der aktuellsten Tabelle arbeitet.
 
-Bei Nutzung dieser Tabellen ist es nicht zwingend erforderlich alle Spalten auszufüllen, wenn diese Daten nicht erhoben wurden oder aus datenschutzrechtlichen Gründen nicht veröffentlicht werden können.
+Bei Nutzung dieser Tabellen ist es nicht zwingend erforderlich alle Spalten auszufüllen, falls diese Daten nicht erhoben wurden oder aus datenschutzrechtlichen Gründen nicht veröffentlicht werden können.
 
 Beide Tabellen verfügen über den Reiter Eingabeformular. Über dieses Eingabeformular soll die Datenbank befüllt werden.
 
